@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "72394538686",
+    "firebase_url": "https://lab-amst8-default-rtdb.firebaseio.com",
+    "project_id": "lab-amst8",
+    "storage_bucket": "lab-amst8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72394538686:android:e8aebb0cab6686d47828ef",
+        "android_client_info": {
+          "package_name": "com.example.asmt6_g0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72394538686-9g9f7dghg8qop099kq90c22hpn4ldv2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZEC_iabwYLe0gpcIYliFtTU5qnDu9F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72394538686-9g9f7dghg8qop099kq90c22hpn4ldv2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72394538686-rr5tfn95bs5evm3tqi61iumbaf5ur0sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asmt6G0"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72394538686:android:e9545875f3a0bfd67828ef",
+        "android_client_info": {
+          "package_name": "com.example.vacheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72394538686-9g9f7dghg8qop099kq90c22hpn4ldv2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZEC_iabwYLe0gpcIYliFtTU5qnDu9F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72394538686-9g9f7dghg8qop099kq90c22hpn4ldv2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72394538686-rr5tfn95bs5evm3tqi61iumbaf5ur0sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asmt6G0"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72394538686:android:e0548e97a056fd487828ef",
+        "android_client_info": {
+          "package_name": "ec.edu.espol.vacheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72394538686-9g9f7dghg8qop099kq90c22hpn4ldv2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmZEC_iabwYLe0gpcIYliFtTU5qnDu9F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72394538686-9g9f7dghg8qop099kq90c22hpn4ldv2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72394538686-rr5tfn95bs5evm3tqi61iumbaf5ur0sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asmt6G0"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
